@@ -29,115 +29,11 @@
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/mehmat/graphics/windows/Window.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mehmat/graphics/windows/Window.kt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/convertation/CartesianScreenPlane.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/convertation/Converter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/painters/FractalPainter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/painters/SelectionRectPainter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-              <folding>
-                <element signature="e#38#178#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/windows/Window.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-172">
-              <caret line="252" column="40" lean-forward="true" selection-start-line="252" selection-start-column="40" selection-end-line="252" selection-end-column="40" />
-              <folding>
-                <element signature="e#36#819#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/windows/EditWindow.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/windows/components/MainPanel.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="e#47#307#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/fractals/Mandelbrot.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/Complex.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,116 +51,11 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/convertation/CartesianScreenPlane.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/convertation/Converter.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/painters/FractalPainter.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/painters/SelectionRectPainter.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/windows/components/MainPanel.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/math/fractals/Mandelbrot.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/math/Complex.kt" />
-        <option value="$PROJECT_DIR$/src/Main.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/windows/Window.kt" />
-        <option value="$PROJECT_DIR$/src/ru/mehmat/graphics/windows/EditWindow.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="60" />
-    <option name="y" value="40" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
-  </component>
+  <component name="ProjectId" id="1VLjTsIuv7Ovz3p0mW3iK13yyKj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-              <item name="convertation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-              <item name="painters" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-              <item name="windows" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="graphics" type="462c0819:PsiDirectoryNode" />
-              <item name="windows" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mandelbrot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mandelbrot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mehmat" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="fractals" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576612427064" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -315,6 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576000443937</updated>
+      <workItem from="1577039431009" duration="710000" />
+      <workItem from="1577091197025" duration="1616000" />
     </task>
     <task id="LOCAL-00001" summary="vcs">
       <created>1576001750292</created>
@@ -354,36 +147,21 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vcs" />
@@ -391,92 +169,6 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/DanisAvko/Mandelbrot&#10;&#10;# Conflicts:&#10;#&#9;out/production/Mandelbrot/MainKt.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$1.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$10.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$11.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$12.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$13.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$2.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$3.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$4.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$5.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$6.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$7.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$8.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$9.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$cs0$1.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$cs1$1.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$cs2$1.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window$cs3$1.class&#10;#&#9;out/production/Mandelbrot/ru/mehmat/graphics/windows/Window.class" />
     <MESSAGE value="new" />
     <option name="LAST_COMMIT_MESSAGE" value="new" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/d.kt" />
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/asd.kt" />
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/s.kt" />
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/Window.kt" />
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/fractals.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/convertation/CartesianScreenPlane.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/convertation/Converter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/painters/FractalPainter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/painters/SelectionRectPainter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="e#38#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/windows/components/MainPanel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="e#47#307#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/fractals/Mandelbrot.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/math/Complex.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/windows/Window.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-172">
-          <caret line="252" column="40" lean-forward="true" selection-start-line="252" selection-start-column="40" selection-end-line="252" selection-end-column="40" />
-          <folding>
-            <element signature="e#36#819#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/mehmat/graphics/windows/EditWindow.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

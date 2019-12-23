@@ -87,13 +87,10 @@ class MainPanel (var painter: FractalPainter): JPanel(){
 
                         }
                     }
-                    if (dinIter){
-                        val coeffIncrease= (35/painter.fractal.minIter.toDouble())*ln(square/((painter.plane.xMax-painter.plane.xMin)
-                                *(painter.plane.yMax-painter.plane.yMin)))
-                        if (coeffIncrease-1>1e-10) painter.fractal.maxIter=(painter.fractal.minIter*coeffIncrease).toInt()
-                    }
+                    if (dinIter) changeIterations()
                 }
             }
+
 
             override fun mousePressed(e: MouseEvent?) {
                 super.mousePressed(e)
@@ -113,6 +110,11 @@ class MainPanel (var painter: FractalPainter): JPanel(){
         })
     }
 
+    fun changeIterations(){
+        val coeffIncrease= (35/painter.fractal.minIter.toDouble())*ln(getSquare/((painter.plane.xMax-painter.plane.xMin)
+                *(painter.plane.yMax-painter.plane.yMin)))
+        if (coeffIncrease-1>1e-10) painter.fractal.maxIter=(painter.fractal.minIter*coeffIncrease).toInt()
+    }
     override fun paint(g: Graphics?) {
         painter.plane.realWidth = width
         painter.plane.realHeight = height

@@ -196,12 +196,7 @@ class Window : JFrame(),  ActionListener{
         iterFractal.addActionListener{
             if (iterFractal.isSelected) {
                 mainPanel.dinIter = true
-                val coeffIncrease =(35/painter.fractal.minIter.toDouble())*ln(
-                    mainPanel.getSquare / ((painter.plane.xMax - painter.plane.xMin)
-                            * (painter.plane.yMax - painter.plane.yMin))
-                )
-                if (coeffIncrease - 1 > 1e-10) painter.fractal.maxIter =
-                    (painter.fractal.minIter * coeffIncrease).toInt()
+                mainPanel.changeIterations()
             }else{
                 mainPanel.dinIter=false
                 painter.fractal.maxIter=painter.fractal.minIter
@@ -374,6 +369,7 @@ class Window : JFrame(),  ActionListener{
         painter.plane.realHeight = mainPanel.height
         isVisible = true
     }
+
 
     private fun getFileName(fileFilter: FileNameExtensionFilter, parent: Component? = null): String? {
         var s: String? = null
